@@ -4,6 +4,7 @@
       function toggleNavbar() {
         showMenu = !showMenu;
       }
+      
     </script>
     
     <div class= "bg-black">
@@ -35,12 +36,13 @@
               ? 'flex'
               : 'hidden'}"
           >
-            <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/home">About</a>
+            <!-- <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/home">About</a>
             <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/blog">Services</a>
             <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/contact">Blog</a>
-            <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/about">Contact Us</a>
+            <a class="text-white hover:scale-105 duration-200 hover:text-orange-400" href="/about">Contact Us</a> -->
           </div>
         </nav>
       </div>
     </div>
-    
+  
+  
